@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://badmilk.neocities.org/index.html</loc>
+    <lastmod>2019-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://badmilk.neocities.org/images/badmilk.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://badmilk.neocities.org/images/badmilk_design_guidelines.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://badmilk.neocities.org/images/bar-soap-stock-today-160824-tease_4e19f16dd6ec19dbc626aef431d2b39a.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
